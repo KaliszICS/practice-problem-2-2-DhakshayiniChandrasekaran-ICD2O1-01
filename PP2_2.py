@@ -29,7 +29,7 @@ def q3():
     print("Odd")
 def q4(): 
   #Write Assignment code here
-  user = input('Type "Hello"')
+  user = input('Type "Hello": ')
   if user == "Hello":
     print("The word is Hello")
   else:
@@ -39,8 +39,9 @@ def q4():
 
 #Do not alter the following code
 #Comment out the following code when running your tests
-
+'''
 q1()
 q2()
 q3()
 q4()
+'''
